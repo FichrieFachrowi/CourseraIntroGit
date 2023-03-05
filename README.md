@@ -1,2 +1,2 @@
-# CourseraIntroGit
+# Coursera
 Bangkit
